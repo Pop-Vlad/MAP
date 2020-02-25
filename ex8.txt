@@ -1,0 +1,48 @@
+ID -- 1
+Execution stack:
+
+Ref int v
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(ReadHeap(v));Print(ReadHeap(ReadHeap(a)) + 5)))))
+
+Symbols table:
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+
+Ref int v
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(ReadHeap(v));Print(ReadHeap(ReadHeap(a)) + 5)))))
+
+Symbols table:
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(ReadHeap(v));Print(ReadHeap(ReadHeap(a)) + 5)))))
+
+Symbols table:
+v = (0,int)
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(ReadHeap(v));Print(ReadHeap(ReadHeap(a)) + 5)))))
+
+Symbols table:
+v = (0,int)
+Output:
+
+Files table:
+Heap:
+

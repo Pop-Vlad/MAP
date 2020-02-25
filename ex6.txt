@@ -1,0 +1,578 @@
+ID -- 1
+Execution stack:
+int v
+(v=4;((While (v > 0) (Print(v);v=v - 1));Print(v)))
+Symbols table:
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+int v
+(v=4;((While (v > 0) (Print(v);v=v - 1));Print(v)))
+Symbols table:
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(v=4;((While (v > 0) (Print(v);v=v - 1));Print(v)))
+Symbols table:
+v = 0
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(v=4;((While (v > 0) (Print(v);v=v - 1));Print(v)))
+Symbols table:
+v = 0
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=4
+((While (v > 0) (Print(v);v=v - 1));Print(v))
+Symbols table:
+v = 0
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=4
+((While (v > 0) (Print(v);v=v - 1));Print(v))
+Symbols table:
+v = 0
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+((While (v > 0) (Print(v);v=v - 1));Print(v))
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+((While (v > 0) (Print(v);v=v - 1));Print(v))
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 4
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 3
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 2
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Print(v);v=v - 1)
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+1
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=v - 1
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 1
+Output:
+4
+3
+2
+1
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 0
+Output:
+4
+3
+2
+1
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(While (v > 0) (Print(v);v=v - 1))
+Print(v)
+Symbols table:
+v = 0
+Output:
+4
+3
+2
+1
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+Symbols table:
+v = 0
+Output:
+4
+3
+2
+1
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+Symbols table:
+v = 0
+Output:
+4
+3
+2
+1
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+
+Symbols table:
+v = 0
+Output:
+4
+3
+2
+1
+0
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+
+Symbols table:
+v = 0
+Output:
+4
+3
+2
+1
+0
+Files table:
+Heap:
+

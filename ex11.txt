@@ -1,0 +1,140 @@
+ID -- 1
+Execution stack:
+int v
+(Ref int a;(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+int v
+(Ref int a;(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Ref int a;(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))))
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Ref int a;(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))))
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Ref int a
+(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a))))))
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Ref int a
+(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a))))))
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a))))))
+Symbols table:
+(a,(0,int))
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(v=10;(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a))))))
+Symbols table:
+(a,(0,int))
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=10
+(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))
+Symbols table:
+(a,(0,int))
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=10
+(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))
+Symbols table:
+(a,(0,int))
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))
+Symbols table:
+(a,(0,int))
+(v,10)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(new(a,22);(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a)))))
+Symbols table:
+(a,(0,int))
+(v,10)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+new(a,22)
+(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a))))
+Symbols table:
+(a,(0,int))
+(v,10)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+new(a,22)
+(Fork((WriteHeap(a,30);(v=32;(Print(ReadHeap(a));Print(v)))));(Print(v);Print(ReadHeap(a))))
+Symbols table:
+(a,(0,int))
+(v,10)
+Output:
+Files table:
+Heap:
+

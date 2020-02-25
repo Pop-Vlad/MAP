@@ -1,0 +1,246 @@
+ID -- 1
+Execution stack:
+Ref int v
+(new(v,20);(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Ref int v
+(new(v,20);(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(new(v,20);(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))))
+Symbols table:
+(v,(0,int))
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(new(v,20);(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))))
+Symbols table:
+(v,(0,int))
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+new(v,20)
+(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a))))))
+Symbols table:
+(v,(0,int))
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+new(v,20)
+(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a))))))
+Symbols table:
+(v,(0,int))
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a))))))
+Symbols table:
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+(Ref Ref int a;(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a))))))
+Symbols table:
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+Ref Ref int a
+(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))
+Symbols table:
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+Ref Ref int a
+(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))
+Symbols table:
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))
+Symbols table:
+(a,(0,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+(new(a,v);(new(v,30);Print(ReadHeap(ReadHeap(a)))))
+Symbols table:
+(a,(0,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+new(a,v)
+(new(v,30);Print(ReadHeap(ReadHeap(a))))
+Symbols table:
+(a,(0,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+new(a,v)
+(new(v,30);Print(ReadHeap(ReadHeap(a))))
+Symbols table:
+(a,(0,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+
+ID -- 1
+Execution stack:
+(new(v,30);Print(ReadHeap(ReadHeap(a))))
+Symbols table:
+(a,(2,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+
+ID -- 1
+Execution stack:
+(new(v,30);Print(ReadHeap(ReadHeap(a))))
+Symbols table:
+(a,(2,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+
+ID -- 1
+Execution stack:
+new(v,30)
+Print(ReadHeap(ReadHeap(a)))
+Symbols table:
+(a,(2,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+
+ID -- 1
+Execution stack:
+new(v,30)
+Print(ReadHeap(ReadHeap(a)))
+Symbols table:
+(a,(2,Ref int))
+(v,(1,int))
+Output:
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+
+ID -- 1
+Execution stack:
+Print(ReadHeap(ReadHeap(a)))
+Symbols table:
+(a,(2,Ref int))
+(v,(3,int))
+Output:
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+(3,30)
+
+ID -- 1
+Execution stack:
+Print(ReadHeap(ReadHeap(a)))
+Symbols table:
+(a,(2,Ref int))
+(v,(3,int))
+Output:
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+(3,30)
+
+ID -- 1
+Execution stack:
+Symbols table:
+(a,(2,Ref int))
+(v,(3,int))
+Output:
+20
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+(3,30)
+
+ID -- 1
+Execution stack:
+Symbols table:
+(a,(2,Ref int))
+(v,(3,int))
+Output:
+20
+Files table:
+Heap:
+(1,20)
+(2,(1,int))
+(3,30)
+

@@ -1,0 +1,36 @@
+ID -- 1
+Execution stack:
+int a
+a=true
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+int a
+a=true
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+a=true
+Symbols table:
+(a,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+a=true
+Symbols table:
+(a,0)
+Output:
+Files table:
+Heap:
+

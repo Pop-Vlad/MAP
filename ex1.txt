@@ -1,0 +1,92 @@
+ID -- 1
+Execution stack:
+int v
+(v=2;Print(v))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+int v
+(v=2;Print(v))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(v=2;Print(v))
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(v=2;Print(v))
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=2
+Print(v)
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+v=2
+Print(v)
+Symbols table:
+(v,0)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+Symbols table:
+(v,2)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Print(v)
+Symbols table:
+(v,2)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Symbols table:
+(v,2)
+Output:
+2
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+Symbols table:
+(v,2)
+Output:
+2
+Files table:
+Heap:
+

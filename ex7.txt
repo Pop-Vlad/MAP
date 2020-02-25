@@ -1,0 +1,62 @@
+ID -- 2
+Execution stack:
+Ref int v
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(v);Print(a)))))
+
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 2
+Execution stack:
+Ref int v
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(v);Print(a)))))
+
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 2
+Execution stack:
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(v);Print(a)))))
+
+Symbols table:
+v = (0,int)
+Output:
+Files table:
+Heap:
+
+ID -- 2
+Execution stack:
+(new(v,20);(Ref Ref int a;(new(a,v);(Print(v);Print(a)))))
+
+Symbols table:
+v = (0,int)
+Output:
+Files table:
+Heap:
+
+ID -- 2
+Execution stack:
+new(v,20)
+(Ref Ref int a;(new(a,v);(Print(v);Print(a))))
+
+Symbols table:
+v = (0,int)
+Output:
+Files table:
+Heap:
+
+ID -- 2
+Execution stack:
+new(v,20)
+(Ref Ref int a;(new(a,v);(Print(v);Print(a))))
+
+Symbols table:
+v = (0,int)
+Output:
+Files table:
+Heap:
+

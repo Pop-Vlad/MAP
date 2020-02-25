@@ -1,0 +1,174 @@
+ID -- 1
+Execution stack:
+string varf
+(varf=test.in;(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+string varf
+(varf=test.in;(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))))
+Symbols table:
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(varf=test.in;(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))))
+Symbols table:
+(varf,)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(varf=test.in;(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))))
+Symbols table:
+(varf,)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+varf=test.in
+(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))))
+Symbols table:
+(varf,)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+varf=test.in
+(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))))
+Symbols table:
+(varf,)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(R-open(varf);(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+R-open(varf)
+(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+R-open(varf)
+(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:test.in
+Heap:
+
+ID -- 1
+Execution stack:
+(int varc;(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf))))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:test.in
+Heap:
+
+ID -- 1
+Execution stack:
+int varc
+(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:test.in
+Heap:
+
+ID -- 1
+Execution stack:
+int varc
+(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))
+Symbols table:
+(varf,test.in)
+Output:
+Files table:test.in
+Heap:
+
+ID -- 1
+Execution stack:
+(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))
+Symbols table:
+(varf,test.in)
+(varc,0)
+Output:
+Files table:test.in
+Heap:
+
+ID -- 1
+Execution stack:
+(read(varf, varc);(Print(varc);(read(varf, varc);(Print(varc);close(varf)))))
+Symbols table:
+(varf,test.in)
+(varc,0)
+Output:
+Files table:test.in
+Heap:
+
+ID -- 1
+Execution stack:
+read(varf, varc)
+(Print(varc);(read(varf, varc);(Print(varc);close(varf))))
+Symbols table:
+(varf,test.in)
+(varc,0)
+Output:
+Files table:test.in
+Heap:
+
+ID -- 1
+Execution stack:
+read(varf, varc)
+(Print(varc);(read(varf, varc);(Print(varc);close(varf))))
+Symbols table:
+(varf,test.in)
+(varc,0)
+Output:
+Files table:test.in
+Heap:
+

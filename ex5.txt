@@ -1,0 +1,20 @@
+ID -- 1
+Execution stack:
+int a
+(int b;(a=2;(b=3;If(a > b) Then(Print(a)) Else(Print(b)))))
+Symbols table:
+Output:
+
+Files table:
+Heap:
+
+ID -- 1
+Execution stack:
+int a
+(int b;(a=2;(b=3;If(a > b) Then(Print(a)) Else(Print(b)))))
+Symbols table:
+Output:
+
+Files table:
+Heap:
+
